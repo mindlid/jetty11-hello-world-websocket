@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d115a431-9db2-4e6d-a48d-5dc905254186" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/clients/LatchedWebSocketClient.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/handlers/HelloWorldHandlerAdapter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/servlets/HelloWorldServlet.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/clients/LatchedWebSocketClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/servlets/HelloWorldServlet.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +66,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/kotlin/clients" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="actions.on.save" />
   </component>
   <component name="RecentsManager">
@@ -70,6 +75,7 @@
       <recent name="$PROJECT_DIR$/src/main/kotlin" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="handlers" />
       <recent name="servlets" />
     </key>
   </component>

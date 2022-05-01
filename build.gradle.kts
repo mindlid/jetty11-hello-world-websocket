@@ -26,10 +26,9 @@ dependencies {
     implementation("org.eclipse.jetty.websocket:websocket-jetty-client:11.0.8")
     implementation("org.eclipse.jetty.websocket:websocket-jetty-server:11.0.8")
     implementation("org.eclipse.jetty:jetty-annotations:11.0.8")
+    implementation("org.slf4j:slf4j-reload4j:2.0.0-alpha6")
     implementation("org.slf4j:slf4j-api:2.0.0-alpha6")
     implementation("org.junit.jupiter:junit-jupiter-api:5.8.2")
     implementation("com.google.code.gson:gson:2.9.0")
     implementation("commons-io:commons-io:2.11.0")
-    implementation("org.slf4j:jcl-over-slf4j:2.0.0-alpha6")
-    implementation("org.slf4j:slf4j-reload4j:2.0.0-alpha6")
 }
